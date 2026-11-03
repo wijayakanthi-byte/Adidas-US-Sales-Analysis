@@ -71,7 +71,7 @@ profit - Sales & profit per region - Kontribusi penjualan - Sales
 berdasarkan metode penjualan - Sales & profit per produk -
 Top-performing sales / kategori
 
- `Foto%20Dasboard.png`
+![Adidas US Sales Dashboard](Dashboard%202%20(1).png)
 
 ## 💡 Ringkasan Angka
 
