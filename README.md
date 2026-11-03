@@ -71,9 +71,7 @@ profit - Sales & profit per region - Kontribusi penjualan - Sales
 berdasarkan metode penjualan - Sales & profit per produk -
 Top-performing sales / kategori
 
-> **Tambahkan screenshot dashboard di bagian ini** agar recruiter dapat
-> melihat hasil visualisasi tanpa harus mengunduh workbook.\
-> Contoh nama file gambar: `images/adidas-sales-dashboard.png`
+ `images/Foto Dasboard.png`
 
 ## 💡 Ringkasan Angka
 
@@ -84,8 +82,6 @@ Berdasarkan KPI yang tampil pada workbook:
 -   **Operating Profit:** 332.134.761,45
 -   **Jumlah transaksi:** 9.648
 
-*Catatan: pastikan satuan mata uang dan definisi KPI sudah sesuai dengan
-dataset sebelum angka ini dipublikasikan.*
 
 ## 💼 Skills
 
