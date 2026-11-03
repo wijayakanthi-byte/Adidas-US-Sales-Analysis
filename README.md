@@ -71,7 +71,7 @@ profit - Sales & profit per region - Kontribusi penjualan - Sales
 berdasarkan metode penjualan - Sales & profit per produk -
 Top-performing sales / kategori
 
- `images/Foto Dasboard.png`
+ `Foto%20Dasboard.png`
 
 ## 💡 Ringkasan Angka
 
